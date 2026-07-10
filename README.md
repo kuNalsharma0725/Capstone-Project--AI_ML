@@ -17,7 +17,7 @@ I selected this dataset for two primary reasons:
 
 ##  Repository Structure
 This project is organized into four main parts. Each directory contains its own dedicated `README.md` file with specific details, code setups.
-* **Part1** Data Acquisition, Cleaning, and Exploratory Analysis
-* **Part2** Supervised Machine Learning Model — Build, Train, and Evaluate
-* **Part3** Advanced Modeling — Ensembles, Tuning, and Full ML Pipeline
-* **Part4** LLM-Powered Feature: Structured Extraction, Tabular Batch Scoring, or Model Prediction Explanation
+* **Part1:** Data Acquisition, Cleaning, and Exploratory Analysis
+* **Part2:** Supervised Machine Learning Model — Build, Train, and Evaluate
+* **Part3*:* Advanced Modeling — Ensembles, Tuning, and Full ML Pipeline
+* **Part4**: LLM-Powered Feature: Structured Extraction, Tabular Batch Scoring, or Model Prediction Explanation

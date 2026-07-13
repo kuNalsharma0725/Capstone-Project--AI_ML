@@ -18,7 +18,7 @@
  
   * **Structured output handling:**
   *  **Guardrails**
-  *  
+  
 
   
       
